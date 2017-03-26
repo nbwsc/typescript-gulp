@@ -1,0 +1,27 @@
+{
+  "name": "typescript-gulp",
+  "version": "1.0.0",
+  "description": "typescript-gulp test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbwsc/typescript-gulp.git"
+  },
+  "author": "nbwsc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbwsc/typescript-gulp/issues"
+  },
+  "homepage": "https://github.com/nbwsc/typescript-gulp#readme",
+  "devDependencies": {
+    "browserify": "^14.1.0",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.6",
+    "tsify": "^3.0.1",
+    "typescript": "^2.2.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
